@@ -1,4 +1,5 @@
 # Author: Kunal Kumar
+# Buy Me a Coffee: https://www.buymeacoffee.com/l1v1n9h311
 # Social: twitter.com/l1v1n9h311, instagram.com/prokunal
 # Website: procoder.in
 from flask import Flask, render_template,request,redirect,jsonify,session,url_for
