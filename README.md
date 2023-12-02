@@ -37,6 +37,7 @@ Use Study Tracker to transform the way you study. Maximize productivity, crush y
 ```
 pip install -r requirements
 ```
+**Running app.py**  
 ```
 python app.py
 ```
