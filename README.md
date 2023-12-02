@@ -27,6 +27,8 @@ Use Study Tracker to transform the way you study. Maximize productivity, crush y
 <h3>Progress Chart</h3><br/>
 <img src='https://i.postimg.cc/BZzMdcPF/progress.png' border='0' alt='progress'/><br/>
 <b>Running application</b><br/>
-``` python app.py ```
+```
+Code here
+```
 <br/>
 <img src='https://i.postimg.cc/ZYvMYMSH/running-app.png' border='0' alt='app-py-running'/>
