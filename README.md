@@ -16,11 +16,11 @@ Use Study Tracker to transform the way you study. Maximize productivity, crush y
 ## Overview
 <h3>Create Task</h3><br/>
 <img src='https://i.postimg.cc/nz94nqBS/create-task.png' border='0' alt='create-task'/>
-<h3>Timer Interface</h3><br/>
+<h3>Timer Running Interface</h3><br/>
 <img src='https://i.postimg.cc/qM435Pb5/timer-running.png' border='0' alt='timer-running'/>
 <h3>Rest Timer Interface</h3><br/>
 <img src='https://i.postimg.cc/HLpX8f5M/rest-timer-running.png' border='0' alt='rest-timer'/>
-<h3>Completed Interface</h3><br/>
+<h3>Completed Page Interface</h3><br/>
 <img src='https://i.postimg.cc/TYSFJvJZ/completed.png' border='0' alt='task-completed'/>
 <h3>Create To-Do</h3><br/>
 <img src='https://i.postimg.cc/wj2WbKXq/todo.png' border='0' alt='todo'/>
@@ -30,6 +30,10 @@ Use Study Tracker to transform the way you study. Maximize productivity, crush y
 <b>Running application:</b><br/>
 ```
 python app.py
+```
+<b>Installing requirements</b><br/>
+```
+pip install -r requirements.txt
 ```
 <br/>
 <img src='https://i.postimg.cc/ZYvMYMSH/running-app.png' border='0' alt='app-py-running'/>
