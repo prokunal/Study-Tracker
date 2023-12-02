@@ -80,8 +80,8 @@ def setup():
         rest = int(request.form["rest"])
         sets = int(request.form["sets"])
 
-        session["exercise"] = exercise
-        session["rest"] = rest
+        session["exercise"] = exercise*60
+        session["rest"] = rest*60
         session["sets"] = sets
         session["set_counter"] = 0
         session["task_name"] = tname
