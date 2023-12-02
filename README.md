@@ -32,9 +32,9 @@ Use Study Tracker to transform the way you study. Maximize productivity, crush y
 ### Progress Chart
 ![Progress Chart](https://i.postimg.cc/BZzMdcPF/progress.png)
 
-**Running application**
-Use it with python3
-**Installing requirements**
+**Running application**  
+Note: Use it with python3  
+**Installing requirements**  
 ```
 pip install -r requirements
 ```
