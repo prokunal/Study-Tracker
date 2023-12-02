@@ -15,7 +15,7 @@ Witness your progress in real time with an insightful table chart. Analyze study
 Use Study Tracker to transform the way you study. Maximize productivity, crush your goals, and make every study session count. Your academic success starts here!
 ## Overview
 <h3>Create Task</h3><br/>
-<img src='https://i.postimg.cc/nz94nqBS/create-task.png' border='0' alt='create-task'/>
+<img src='https://i.postimg.cc/nz94nqBS/create-task.png' border='1' alt='create-task'/>
 <h3>Timer Interface</h3><br/>
 <img src='https://i.postimg.cc/qM435Pb5/timer-running.png' border='0' alt='timer-running'/>
 <h3>Rest Timer Interface</h3><br/>
