@@ -1,4 +1,4 @@
-# study-tracker
+ <h2>Study Tracker</h2>
 Introducing Study Tracker, the all-in-one study tracker app designed to elevate your study experience and boost productivity! 🚀
 
 📚 Track Study Time:
