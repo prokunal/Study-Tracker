@@ -41,3 +41,6 @@ pip install -r requirements
 ```
 python app.py
 ```
+![Progress Chart](https://i.postimg.cc/ZYvMYMSH/running-app.png)  
+### Author
+[Kunal Kumar](https://twitter.com/l1v1n9h311)
