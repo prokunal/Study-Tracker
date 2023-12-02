@@ -30,4 +30,5 @@ Use Study Tracker to transform the way you study. Maximize productivity, crush y
 ```
 python app.py
 ```
+<br/>
 <img src='https://i.postimg.cc/ZYvMYMSH/running-app.png' border='0' alt='app-py-running'/>
