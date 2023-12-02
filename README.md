@@ -14,7 +14,7 @@ Witness your progress in real-time with an insightful table chart. Analyze study
 Use Study Tracker to transform the way you study. Maximize productivity, crush your goals, and make every study session count. Your academic success starts here!
 
 ## Overview
-### Create Task<br/><br/>
+### Create Task
 ![Create Task](https://i.postimg.cc/nz94nqBS/create-task.png)
 
 ### Timer Running Interface  
@@ -44,3 +44,4 @@ python app.py
 ![Progress Chart](https://i.postimg.cc/ZYvMYMSH/running-app.png)  
 ### Author
 * [Kunal Kumar](https://twitter.com/l1v1n9h311)
+* [Support Me](https://www.buymeacoffee.com/l1v1n9h311)
