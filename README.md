@@ -15,5 +15,8 @@ Witness your progress in real time with an insightful table chart. Analyze study
 Use Study Tracker to transform the way you study. Maximize productivity, crush your goals, and make every study session count. Your academic success starts here!
 ## Overview
 Running application:<br/>
-```python app.py```
+```
+python app.py
+```
+<br/>
 <img src="https://i.ibb.co/StPb2r8/running-app.png" alt="running-app" border="0">
