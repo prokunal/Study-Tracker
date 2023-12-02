@@ -1,5 +1,5 @@
- <h2>Study Tracker</h2>
-Introducing Study Tracker, the all-in-one study tracker app designed to elevate your study experience and boost productivity! 🚀
+ <h1>Study Tracker</h1>
+Introducing Study Tracker, the all-in-one study tracker app designed to elevate your study experience and boost productivity! 🚀<br/>
 
 📚 Track Study Time:
 Effortlessly monitor your study sessions with our intuitive time-tracking feature. Log your study hours, set goals, and watch your productivity soar.
