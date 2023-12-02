@@ -20,3 +20,4 @@ python app.py
 ```
 <br/>
 <img src="https://i.ibb.co/StPb2r8/running-app.png" alt="running-app" border="0">
+[![timer-running.png](https://i.postimg.cc/qM435Pb5/timer-running.png)](https://postimg.cc/rzZsdPL1)
