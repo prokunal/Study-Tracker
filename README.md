@@ -26,7 +26,7 @@ Use Study Tracker to transform the way you study. Maximize productivity, crush y
 <img src='https://i.postimg.cc/wj2WbKXq/todo.png' border='0' alt='todo'/>
 <h3>Progress Chart</h3><br/>
 <img src='https://i.postimg.cc/BZzMdcPF/progress.png' border='0' alt='progress'/>
-<b>Installing requirements</b>
+<b>Installing requirements</b><br/>
 ```
 pip install -r requirements.txt
 ```
