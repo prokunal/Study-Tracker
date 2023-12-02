@@ -13,7 +13,7 @@ Witness your progress in real-time with an insightful table chart. Analyze study
 🚀 **Level Up Your Study Game:**  
 Use Study Tracker to transform the way you study. Maximize productivity, crush your goals, and make every study session count. Your academic success starts here!
 
-## Overview
+## Application Overview
 ### Create Task
 ![Create Task](https://i.postimg.cc/nz94nqBS/create-task.png)
 
