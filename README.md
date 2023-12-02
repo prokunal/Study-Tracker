@@ -35,6 +35,4 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-
-
 <img src='https://i.postimg.cc/ZYvMYMSH/running-app.png' border='0' alt='app-py-running'/>
