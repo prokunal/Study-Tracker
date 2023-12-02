@@ -2,7 +2,7 @@
 Introducing Study Tracker, the all-in-one study tracker app designed to elevate your study experience and boost productivity! 🚀
 
 📚 **Track Study Time:**  
-Effortlessly monitor your study sessions with our intuitive time-tracking feature. Log your study hours, set goals, and watch your productivity soar.
+Effortlessly monitor your study sessions with intuitive time-tracking feature. Log your study hours, set goals, and watch your productivity soar.
 
 📅 **Todo List Integration:**  
 Stay organized with seamless to-do list integration. Easily add, edit, and prioritize tasks to ensure nothing slips through the cracks. Accomplish your goals one task at a time!
