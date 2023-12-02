@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %} Update ToDo {% endblock title %}
+{% block body %}
+
+<!-- creating todo task form -->
+<div class="container my-4">
+    <h2>Update ToDo</h2>
+   
+  <form action="/update/{{sno}}" method="POST">
+  <div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">Title</label>
+    <input type="text" class="form-control" name="title" id="exampleFormControlInput1" value="{{title}}" placeholder="Enter Todo task title">
+  </div>
+  <div class="mb-3">
+    <label for="exampleFormControlTextarea1"  class="form-label">Description</label>
+    <textarea class="form-control" name="desc" value="data" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary btn-dark">Update</button>
+  </form>
+
+
+{% endblock body  %}

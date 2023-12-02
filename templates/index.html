@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+{% block title %} Home {% endblock title %}
+{% block body %}
+ 
+</head>
+<body>
+    <style>
+      body{
+        background-color: #f4f4f4;
+      }
+     
+       .body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;}
+      
+    
+        .form-index {
+          background-color: #fff;
+          box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+          padding: 20px;
+          border-radius: 8px;
+          width: 300px;
+        }
+    
+        .label-index {
+          display: block;
+          margin-bottom: 8px;
+          color: #333;
+        }
+    
+        .input-index {
+          width: 100%;
+          padding: 8px;
+          margin-bottom: 16px;
+          box-sizing: border-box;
+        }
+    
+        .button-index {
+          background-color: #4caf50;
+          color: #fff;
+          padding: 10px;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+          width: 100%;
+        }
+    
+        .button:hover {
+          background-color: #45a049;
+        }
+      </style>
+       
+      <div class="body" >
+        
+  <form class="form-index" action="/" method="post">
+    <label class="label-index form-label" for="task_name">Task Name:</label>
+    <input class="input-index form-control" type="text" id="task_name" name="task_name" placeholder="Enter Task Name" required>
+
+    <label for="exercise form-label" class="label-index">Session Time: (minutes)</label>
+    <input class="input-index form-control" type="number" id="exercise" name="exercise" value="40" placeholder="Session time in minutes" required>
+
+    <label for="rest" class="label-index form-label">Rest Duration (minutes):</label>
+    <input class="input-index form-control" type="number" id="rest" name="rest" value="5" placeholder="Rest duration in minutes" required>
+
+    <label for="sets" class="label-index form-label">Number of Sets:</label>
+    <input class="input-index form-control" type="number" id="sets" name="sets" value="3" placeholder="Enter your sets" required>
+
+    <button class="button-index" type="submit">Log Task</button>
+  </form>
+
+</div>
+  {% endblock body  %}

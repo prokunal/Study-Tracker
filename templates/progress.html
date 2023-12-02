@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% block title %} Progress {% endblock title %}
+{% block body %}
+
+
+<table  style="margin-top:15px;" class="table table-hover">
+    <thead>
+    <tr>
+        <th scope="col">TASK NAME</th>
+        <th scope="col">GRIND</th>
+        <th scope="col">BREAK</th>
+        <th scope="col">SETS</th>
+        <th scope="col">START TIME</th>
+        <th scope="col">END TIME</th>
+        
+      </tr>
+    </thead>
+    
+    
+  <tbody   class="table-group-divider">
+    {% for row in data %}
+    <tr>
+      <td><b>{{row[0]}}</b></td>
+      <td>{{row[1]}}</td>
+      <td>{{row[2]}}</td>
+      <td>{{row[3]}}</td>
+      <td>{{row[6]}}</td>
+      <td>{{row[7]}}</td>
+    </tr>
+    {% endfor %}
+    
+  </tbody>
+  
+  
+</table>
+{% if data|length==0 %}
+<div class="alert alert-primary" role="alert">
+    No Data to show!
+  </div>
+  {% endif %}
+  <table  style="margin-top:15px;" class="table table-hover">
+    <tbody class="table-group-divider" style="border-top-color:green;">
+
+      <tr>
+        
+       
+        <td style="text-align: right; padding-right: 180px;" colspan="6">Today, You study for <b>{{ttspent}}</b> and took break for <b>{{trest}}</b>. </td>
+       
+        
+        
+      </tr>
+    </tbody>
+  </table>
+      
+    
+{% endblock body  %}

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block title %} Completed {% endblock title %}
+{% block body %}
+<h2 class="heading">Great Work</h2>
+<style>
+  .heading {
+    text-align: center;
+    font-size: 40px;
+    color: #e74c3c;
+    margin-top:20px;
+}
+  .u-center-text {
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 5px;
+}
+
+</style>
+    <span class="u-center-text"><b>You've completed {{ sets }} sets.<br/>Total Grind time: {{gtime}}, Break time: {{rtime}}</b> </span>
+
+      {% endblock body  %}
