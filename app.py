@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 # TODO PROGRAM CODE STARTING
 @app.route('/todo',methods=['GET','POST'])
-def hello_world():
+def todo_page():
     if request.method=='POST':
         date_todo = datetime.now().strftime("%I:%M %p %d-%m-%Y")
         title = request.form['title'].upper()
