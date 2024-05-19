@@ -1,4 +1,2 @@
 flask
-datetime
-sqlite3
 secrets
